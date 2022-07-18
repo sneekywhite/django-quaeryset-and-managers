@@ -1,2 +1,4 @@
 # django-quaeryset-and-managers
-A queryset is simply a list of objects from the Django Models, t
+A QuerySet is, in essence, a list of objects of a given Model. QuerySets allow you to read the data from the database, filter it and order it.
+managers just help us to make queryset.
+
